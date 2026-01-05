@@ -1,30 +1,40 @@
-# Image metadata app
+# Dataset Tools - NextJS Prototype Demo
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/duskfallcrews-projects/v0-image-metadata-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/itQySJ65urb)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This is a HEAVILY IN DEVELOPMENT ALPHA PREVIEW of a future working vision of Dataset Tools, which i'm personally hoping will become part of a larger AI ecosystem. 
+
+This was a front end vision built with V0 by Vercel, and with the help of Gemini CLI, Claude code - we have a working demo of what's to come!
+
+Rome wasn't built in a day, but this was built in just under six hours roughly.
 
 ## Deployment
 
-Your project is live at:
+At the current moment, use your noggin because I only just uploaded this, give me a few days and i'll have more details on how you can install this and test it yourself.
 
-**[https://vercel.com/duskfallcrews-projects/v0-image-metadata-app](https://vercel.com/duskfallcrews-projects/v0-image-metadata-app)**
+## WHATS NOT WORKING
 
-## Build your app
 
-Continue building your app on:
+- ComfyUI isn't working 100%, this depends on the workflow style.
+- Midjourney Parsing is incomplete as it's XMP.
+- Thumbnails & Sort - this is available in the ORIGINAL PYTHON app.
+- Mochi Diffusion, SwarmUI
+- POSSIBLY WORKING: SD NEXT because it should read like A111 and Forge.
+- Software detection tags. 
 
-**[https://v0.app/chat/itQySJ65urb](https://v0.app/chat/itQySJ65urb)**
+## What's to come?
 
-## How It Works
+Phase 1:
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- BASIC UI fixes to make sure this is more of an app
+- XMP filtering for Midjourney
+- Minor ComfyUI updates
+
+Phase 2: 
+
+.... 
+
+Actually just read the RoadMap, which isnt' a full flow chart as a partial vision based on a 3 paragraph rant i gave Claude. 
+If you'll excuse me i'm  going to go back to clip studio and finish drawing! 
